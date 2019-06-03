@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shipment >
+  <Name></Name>
+  <SourceFolderPath></SourceFolderPath>
+  <OutputFolderPath></OutputFolderPath>
+  <Options>
+    <BinDebug></BinDebug>
+    <BinRelease></BinRelease>
+    <ObjDebug></ObjDebug>
+    <ObjRelease></ObjRelease>
+    <PackagesFolder></PackagesFolder>
+    <DoNotCopyContentFolders>
+      <Folder>
+        <Name></Name>
+        <Path></Path>
+        <Exceptions>
+          <Exception>
+            <Name></Name>
+            <ExceptionType></ExceptionType>
+            <Text></Text>
+          </Exception>  
+        </Exceptions>
+      </Folder>
+    </DoNotCopyContentFolders>
+  </Options>
+</Shipment> 

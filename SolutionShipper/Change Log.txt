@@ -1,0 +1,11 @@
+﻿Version 1.0 - Initial Release
+
+-- Bug fixes for second release
+Version 1.0.1
+Modified the AddTimeStamp method to make every use two digits. 
+This ensures all dates are truly unique. It was unlikely a problem would have occurred 
+with the old method but I think it was possible with one digit values.
+
+Version 1.0.2
+Modified the Clear method to have an optional value for justStatus. 
+If justStatus is true then the top portion of the MainForm object is not cleared.
